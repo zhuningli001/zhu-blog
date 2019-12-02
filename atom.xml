@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>NINGLI ZHU</title>
+  
+  <subtitle>LAB</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://zhu-blog.com/"/>
+  <updated>2019-12-01T21:22:47.000Z</updated>
+  <id>http://zhu-blog.com/</id>
+  
+  <author>
+    <name>Ningli Zhu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="http://zhu-blog.com/2019/12/01/hello-world-1/"/>
+    <id>http://zhu-blog.com/2019/12/01/hello-world-1/</id>
+    <published>2019-12-01T21:22:47.000Z</published>
+    <updated>2019-12-01T21:22:47.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>b</title>
+    <link href="http://zhu-blog.com/2019/11/28/b/"/>
+    <id>http://zhu-blog.com/2019/11/28/b/</id>
+    <published>2019-11-28T11:48:03.000Z</published>
+    <updated>2019-11-28T12:04:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>bbbbb</p><a href="/2019/11/28/b/screen.png" title="screen.png">screen.png</a><img src="/2019/11/28/b/imageb.jpg" class="">]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;bbbbb&lt;/p&gt;
+&lt;a href=&quot;/2019/11/28/b/screen.png&quot; title=&quot;screen.png&quot;&gt;screen.png&lt;/a&gt;
+&lt;img src=&quot;/2019/11/28/b/imageb.jpg&quot; class=&quot;&quot;&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>a</title>
+    <link href="http://zhu-blog.com/2019/11/28/a/"/>
+    <id>http://zhu-blog.com/2019/11/28/a/</id>
+    <published>2019-11-28T11:24:31.000Z</published>
+    <updated>2019-11-28T12:04:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>aa </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;aa &lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="Cat1" scheme="http://zhu-blog.com/categories/Cat1/"/>
+    
+      <category term="Cat2" scheme="http://zhu-blog.com/categories/Cat2/"/>
+    
+      <category term="Cat3" scheme="http://zhu-blog.com/categories/Cat3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>introduction</title>
+    <link href="http://zhu-blog.com/2019/11/28/introduction/"/>
+    <id>http://zhu-blog.com/2019/11/28/introduction/</id>
+    <published>2019-11-28T11:01:49.000Z</published>
+    <updated>2019-11-28T11:16:12.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>there is some information about designer zhu.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;there is some information about designer zhu.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="tag1" scheme="http://zhu-blog.com/tags/tag1/"/>
+    
+      <category term="tag2" scheme="http://zhu-blog.com/tags/tag2/"/>
+    
+      <category term="tag3" scheme="http://zhu-blog.com/tags/tag3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://zhu-blog.com/2019/11/27/hello-world/"/>
+    <id>http://zhu-blog.com/2019/11/27/hello-world/</id>
+    <published>2019-11-27T22:42:31.000Z</published>
+    <updated>2019-11-27T22:42:31.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo server</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo generate</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
